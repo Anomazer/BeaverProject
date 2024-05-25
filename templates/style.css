@@ -1,3 +1,16 @@
+.a{
+margin-right:3%;
+}
+
+.b{
+margin-top:50px;
+}
+
+.c{
+margin-top:40px;
+}
+
+
 .body{
     color: #ffffff;
     font-weight: 700;
@@ -11,21 +24,14 @@ header{
     height: 200px;
 }
 
-.svg-header{
-    position: relative;
-    top:30px;
-    left: 3%;
 
-}
 
-.text1{ margin-left: 11%; margin-top: -75px; font-size: 55px; }
-.text2{ margin-left: 45%; margin-top: -82.5px; font-size: 55px; }
-.text3{ margin-left: 67%; margin-top: -83px; font-size: 55px; }
-.text4{ margin-left: 85%; margin-top: -84px; font-size: 55px; }
+
 
 .dh{
     text-decoration: none;
     color: #ffffff;
+    font-color:#FFFFFF;
 }
 
 
