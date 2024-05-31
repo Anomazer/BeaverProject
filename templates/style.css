@@ -27,11 +27,9 @@ header{
 
 
 
-
 .dh{
     text-decoration: none;
     color: #ffffff;
-    font-color:#FFFFFF;
 }
 
 
@@ -42,16 +40,23 @@ header{
     height: 649px;
     border-radius: 50px;
     background-color: #9A5B5B;
-    margin-left: 0%;
+    margin-left: 20%;
 
 }
 
+
+.text-mp1{
+    margin-right: 10%;
+    margin-top: 20px;
+}
 .text-mp1_1{
     font-family: Inknut Antiqua;
     font-size: 59px;
     font-weight: 700;
     line-height: 152.16px;
     text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 
 }
 
@@ -61,6 +66,7 @@ header{
     font-weight: 700;
     line-height: 67.05px;
     text-align: center;
+    margin-top: -20px;
 
 }
 
@@ -136,6 +142,8 @@ header{
     width: 420.13px;
     height: 280.38px;
     border-radius: 50px;
+    position: relative;
+    top: 10px;
 }
 
 .text7{
@@ -203,4 +211,105 @@ button{
 .text11{
     margin-top: -7px;
     margin-left: -3px;
+}
+
+
+.nav-inp{
+    border-radius:17px;
+    width: 450px;
+    position: relative;
+    right: -3%;
+    padding-left: 15px;  
+    
+}
+.but-inp{
+    height: 47px;
+    border-radius: 15px;
+    position:absolute;
+    left: 92.3%;
+    margin-top: 2px;
+    z-index: 100;
+}
+
+.colmn1{
+    margin-right: -100px;
+    margin-left: 100px;
+}
+
+.colmn2{
+    margin-left: -100px;
+}
+
+.polygon2{
+    background-color: white;
+    width: 420px;
+    height: 800px;
+    margin-top: 220px;
+    margin-left: 100px;
+    border-radius: 25px;
+
+
+}
+
+
+.p2{
+    background-color: #5B9A74;
+    width: 300px;
+    height: 450px;
+    border-radius: 50px;
+}
+
+.rw2{
+    margin: 10px;
+    background-color: #ffffff;
+    width: 300px;
+    height: 220px;
+    border-radius: 25px;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+.text12{
+    font-family: Inknut Antiqua;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 61.9px;
+    text-align: center;
+    
+}
+.text13{
+    font-family: Inknut Antiqua;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30.95px;
+    text-align: center;
+
+}
+.text14{
+    font-family: Inknut Antiqua;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 36.11px;
+    text-align: center;
+    color: black;
+
+}
+.text15{
+    font-family: Inknut Antiqua;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 33.53px;
+    text-align: center;
+    color: black;
+    margin-top: -2px;
+
+}
+.btn4{
+    width: 119.92px;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: -25px;
+    background-color:#F6CB4E;
+    font-weight:700;
 }
